@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/JeandeCampredon/react-native-referrer.git"
+    "url": "git+ssh://git@github.com/JeandeCampredon/react-native-SFAuthenticationSession.git"
   },
   "keywords": [
     "react-native",
